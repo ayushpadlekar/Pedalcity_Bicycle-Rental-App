@@ -19,70 +19,70 @@ Pedalcity is a bicycle sharing app designed to improve urban mobility. It allows
 **• Splash, Onboarding & Sign Up :**
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Screenshots/Splash.png" style="flex: 1 0 auto; width: 15%;">
-  <img src="Screenshots/Onboarding1.png" style="flex: 1 0 auto; width: 15%;">
-  <img src="Screenshots/Onboarding2.png" style="flex: 1 0 auto; width: 15%;">
-  <img src="Screenshots/Onboarding3.png" style="flex: 1 0 auto; width: 15%;">
-  <img src="Screenshots/Onboarding4.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Splash, Onboarding & Signup/Splash.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Splash, Onboarding & Signup/Onboarding1.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Splash, Onboarding & Signup/Onboarding2.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Splash, Onboarding & Signup/Onboarding3.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Splash, Onboarding & Signup/Onboarding4.png" style="flex: 1 0 auto; width: 15%;">
 </div>
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Screenshots/SignIn google.png" style="flex: 1 0 auto; width: 15%;">
-  <img src="Screenshots/SignIn google choose acc.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Splash, Onboarding & Signup/SignIn google.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Splash, Onboarding & Signup/SignIn google choose acc.png" style="flex: 1 0 auto; width: 15%;">
 </div>
 </br>
 
 **• Home :**
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Screenshots/Home Main.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Home/Home Main.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Home Satellite.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Home/Home Satellite.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Home Bottom Sheet.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Home/Home Bottom Sheet.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Scan QR.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Home/Scan QR.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Enter Number Dialog.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Home/Enter Number Dialog.png" style="flex: 1 0 auto; width: 15%;">
 </div>
 </br>
 
 **• Choose & Unlock Bicycle :**
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Screenshots/Choose Bicycle.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Choose & Unlock Bicycle/Choose Bicycle.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Bicycle Numbers.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Choose & Unlock Bicycle/Bicycle Numbers.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Reconfirm Number.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Choose & Unlock Bicycle/Reconfirm Number.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Bicycle Unlock Anim.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Choose & Unlock Bicycle/Bicycle Unlock Anim.png" style="flex: 1 0 auto; width: 15%;">
 </div>
 </br>
 
 **• Bicycle Rental :**
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Screenshots/Ongoing Ride.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Bicycle Rental/Ongoing Ride.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Ongoing Ride Home.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Bicycle Rental/Ongoing Ride Home.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/End Ride Dialog.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Bicycle Rental/End Ride Dialog.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Ride Summary.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Bicycle Rental/Ride Summary.png" style="flex: 1 0 auto; width: 15%;">
 </div>
 </br>
 
 **• Wallet & Profile :**
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Screenshots/Wallet screen.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Wallet, Profile, Exit dialog/Wallet screen.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Wallet Add Money.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Wallet, Profile, Exit dialog/Wallet Add Money.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Wallet Transactions.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Wallet, Profile, Exit dialog/Wallet Transactions.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Profile screen.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Wallet, Profile, Exit dialog/Profile screen.png" style="flex: 1 0 auto; width: 15%;">
 </div>
 
 </br>
