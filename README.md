@@ -14,6 +14,23 @@ Pedalcity is a bicycle sharing app designed to improve urban mobility. It allows
 
 </br>
 
+## Utilized Technologies 🛠️
+ - **Programming:** XML, Java & Kotlin
+
+ - **APIs and Libraries:**
+   - [**Google Maps API**](https://developers.google.com/maps/documentation/android-sdk) : for Location, Maps, Markers, Info window & Satellite view
+   - [**Open Weather API**](https://openweathermap.org/api) : to get current weather updates in a particular area (in this app - Mumbai)
+   - [**World Time Api**](https://worldtimeapi.org) : to fetch Universal Timestamps independently
+   - [**Firebase**](https://firebase.google.com) : for Authentication, Realtime Database, Storage & Analytics
+   - [**Async-Http Client**](https://github.com/android-async-http/android-async-http) : to make asynchronous HTTP requests and handle Json responses
+   - [**Zxing**](https://github.com/zxing/zxing) : for QR code scanning with camera
+   - [**Lottie**](https://lottiefiles.com) : for Animations throughout the app
+   - [**Picasso**](https://github.com/square/picasso) : for easy Image Loading and Caching.
+
+ - **Development Tools:** Android Studio, Figma, Github
+
+</br>
+
 ## Screenshots 📸
 
 **• Splash, Onboarding & Sign Up :**
@@ -146,18 +163,3 @@ https://github.com/user-attachments/assets/ed979c4f-8407-4f6e-b5db-f1ac0014d36a
 https://github.com/user-attachments/assets/e8fbc3be-df5a-4ecb-8bdb-dfb9ff9c5fbf
 
 </br>
-
-## Utilized Technologies ⚛
- - **Programming:** XML, Java & Kotlin
-
- - **APIs and Libraries:**
-   - [**Google Maps API**](https://developers.google.com/maps/documentation/android-sdk) : for Location, Maps, Markers, Info window & Satellite view
-   - [**Open Weather API**](https://openweathermap.org/api) : to get current weather updates in a particular area (in this app - Mumbai)
-   - [**World Time Api**](https://worldtimeapi.org) : to fetch Universal Timestamps independently
-   - [**Firebase**](https://firebase.google.com) : for Authentication, Realtime Database, Storage & Analytics
-   - [**Async-Http Client**](https://github.com/android-async-http/android-async-http) : to make asynchronous HTTP requests and handle Json responses
-   - [**Zxing**](https://github.com/zxing/zxing) : for QR code scanning with camera
-   - [**Lottie**](https://lottiefiles.com) : for Animations throughout the app
-   - [**Picasso**](https://github.com/square/picasso) : for easy Image Loading and Caching.
-
- - **Development Tools:** Android Studio, Figma, Github
