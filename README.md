@@ -136,7 +136,7 @@ Pedalcity is a bicycle sharing app designed to improve urban mobility. It allows
 ### • Exploring the App / Walkthrough ⬇️
 &nbsp; &nbsp; Sign-Up, Map, Bicycle Options, Profile & Wallet
 
-https://github.com/user-attachments/assets/c52b1788-8e7c-4505-b59c-16b85055f99c
+https://github.com/user-attachments/assets/ed979c4f-8407-4f6e-b5db-f1ac0014d36a
 
 &nbsp;
 ### • Rental Process ⬇️
