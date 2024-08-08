@@ -4,7 +4,7 @@
     <img src="Screenshots/Pedalcity Logo.png" alt="Pedalcity_Logo" width="300">
 </div>
 
-Pedalcity is a bicycle sharing app designed to improve urban mobility. It allows people to access bicycle rental services directly from their phones. Users can locate bicycle points, choose bicycles from various options like mtb, cargo, geared, electric and Rent rides in real-time seamlessly.
+Pedalcity is a bicycle sharing app designed to improve urban mobility. It allows people to access bicycle rental services directly from their phones. Users can Locate bicycle points on Map, Choose bicycles from various options like MTB, Cargo, Geared, Electric, etc and Rent rides in real-time seamlessly. Users can also manage their Account profile, Add Money in their Wallet and see Transactions.
 
 <p><b> Download Pedalcity App - Pre-release APK ⬇️</b> </br>
     https://github.com/ayushpadlekar/Pedalcity_Bicycle-Rental-App/releases/tag/v0.0.1-beta </p>
