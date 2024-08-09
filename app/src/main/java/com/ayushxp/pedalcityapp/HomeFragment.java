@@ -483,7 +483,7 @@ public class HomeFragment extends Fragment implements OnMyLocationButtonClickLis
                     if (anyOngoingRide){
                         rent.setVisibility(View.GONE);
                         ongoingRideLayout.setVisibility(View.VISIBLE);
-                        moveCameraToCurrentLocation(); //Move camera to user's current location
+                        //moveCameraToCurrentLocation(); //Move camera to user's current location
 
                         int bicycleImgID = snapshot.child("ongoingRide").child("bicycleImageId").getValue(Integer.class);
                         String rentalIdValue = String.valueOf(snapshot.child("ongoingRide").child("rentalId").getValue(Integer.class));

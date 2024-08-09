@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/white"
     android:orientation="vertical"
     tools:context=".RideSummaryFragment">
@@ -138,6 +138,7 @@
         android:background="@color/btn_color" />
 
 
+
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -259,7 +260,7 @@
                 android:text="₹25"
                 android:textColor="@color/active2"
                 android:textSize="20dp"
-                tools:ignore="DuplicateIds" />
+                tools:ignore="DuplicateIds"/>
 
             <TextView
                 android:layout_width="wrap_content"
@@ -296,8 +297,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginHorizontal="20dp"
         android:layout_marginTop="10dp"
+        android:layout_marginHorizontal="20dp"
         android:orientation="horizontal">
 
         <LinearLayout
@@ -312,8 +313,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:fontFamily="@font/inter_semibold"
                 android:paddingBottom="1dp"
+                android:fontFamily="@font/inter_semibold"
                 android:text="₹200"
                 android:textColor="@color/active2"
                 android:textSize="20dp" />
@@ -347,12 +348,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:fontFamily="@font/inter_semibold"
                 android:paddingBottom="1dp"
+                android:fontFamily="@font/inter_semibold"
                 android:text="₹25"
                 android:textColor="@color/active2"
                 android:textSize="20dp"
-                tools:ignore="DuplicateIds" />
+                tools:ignore="DuplicateIds"/>
 
             <TextView
                 android:layout_width="wrap_content"
@@ -437,15 +438,15 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginHorizontal="10dp"
         android:layout_marginTop="15dp"
+        android:layout_marginHorizontal="10dp"
         android:orientation="horizontal">
 
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="center_horizontal">
+            android:gravity="center_horizontal"
+            android:layout_weight="1">
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/thumb_up"
@@ -454,8 +455,8 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginBottom="10dp"
                 android:backgroundTint="@color/white"
-                app:cardCornerRadius="18dp"
                 app:cardElevation="5dp"
+                app:cardCornerRadius="18dp"
                 app:strokeColor="@color/gray"
                 app:strokeWidth="1.5dp">
 
@@ -465,7 +466,7 @@
                     android:layout_gravity="center_vertical"
                     android:layout_marginStart="15dp"
                     android:src="@drawable/baseline_thumb_up_alt_24"
-                    app:tint="@color/green" />
+                    app:tint="@color/green"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -485,8 +486,8 @@
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="center">
+            android:gravity="center"
+            android:layout_weight="1">
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/thumb_down"
@@ -495,8 +496,8 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginBottom="10dp"
                 android:backgroundTint="@color/white"
-                app:cardCornerRadius="18dp"
                 app:cardElevation="5dp"
+                app:cardCornerRadius="18dp"
                 app:strokeColor="@color/gray"
                 app:strokeWidth="1.5dp">
 
@@ -506,7 +507,7 @@
                     android:layout_gravity="center_vertical"
                     android:layout_marginStart="10dp"
                     android:src="@drawable/baseline_thumb_down_alt_24"
-                    app:tint="@color/dark_red" />
+                    app:tint="@color/dark_red"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -531,13 +532,13 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginHorizontal="20dp"
         android:layout_marginTop="5dp"
-        android:backgroundTint="@color/active2"
-        android:fontFamily="@font/inter_semibold"
         android:paddingVertical="5dp"
+        android:fontFamily="@font/inter_semibold"
         android:text="Done"
         android:textAllCaps="true"
-        android:textColor="@color/white"
         android:textSize="20dp"
-        app:cornerRadius="15dp" />
+        android:textColor="@color/white"
+        android:backgroundTint="@color/active2"
+        app:cornerRadius="15dp"/>
 
 </LinearLayout>
