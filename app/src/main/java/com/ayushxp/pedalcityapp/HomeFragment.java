@@ -479,6 +479,10 @@ public class HomeFragment extends Fragment implements OnMyLocationButtonClickLis
                     //Extract data
                     Boolean anyOngoingRide = snapshot.child("anyOngoingRide?").getValue(Boolean.class);
 
+                    if (anyOngoingRide == null){
+                        ongoingRideLayout.setVisibility(View.GONE);
+                    }
+
                     //Update UI
                     if (anyOngoingRide){
                         rent.setVisibility(View.GONE);
@@ -505,7 +509,6 @@ public class HomeFragment extends Fragment implements OnMyLocationButtonClickLis
                         setupChronometer();
 
                     } else {
-                        ongoingRideLayout.setVisibility(View.GONE);
                         rent.setVisibility(View.VISIBLE);
                     }
                 }
